@@ -1,0 +1,13 @@
+{
+    "name": "react-list",
+    "description": "A versatile infinite scroll [React] component.",
+    "repos": "https://github.com/orgsync/react-list.git",
+    "main": "react-list.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "react": ">= 0.14.0 < 0.15.0",
+        "react-dom": ">= 0.14.0 < 0.15.0"
+    },
+    "version": "0.7.11"
+}
